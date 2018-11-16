@@ -1,2 +1,2 @@
-# YuriBot
-Yuri - a multipurpose discord bot
+# Yuri
+a multipurpose discord bot
