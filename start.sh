@@ -1,5 +1,4 @@
 #!/bin/sh
-#title Yuri Bot
 clear
 echo
 echo "Yuri | a multipurpose Discord Bot"
