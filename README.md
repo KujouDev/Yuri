@@ -1,7 +1,7 @@
 # Yuri
-### a multipurpose discord bot
+a multipurpose discord bot
 
 Yuri is based on [Module.js](https://github.com/KujouDev/Module.js)
 
-## Information
+### Information
 The files for the bot are finally released.
