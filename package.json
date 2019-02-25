@@ -1,0 +1,16 @@
+{
+  "name": "sources",
+  "version": "1.0.0",
+  "description": "source files for Yuri Bot",
+  "main": "yuri.js",
+  "scripts": {
+    "test": "node yuri.js debug",
+    "start": "node yuri.js"
+  },
+  "author": "Kujou",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "colors": "^1.2.3"
+  }
+}
