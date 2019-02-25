@@ -1,3 +1,6 @@
+// I know this script currently has some issues they need to get fixed
+// ~ Yuri Dev (Kujou)
+
 const	Discord	= require('discord.js'),
 		fs		= require('fs'),
 		config	= JSON.parse(fs.readFileSync('config.json', 'utf8')),
