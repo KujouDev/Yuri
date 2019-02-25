@@ -1,5 +1,5 @@
 @echo off
-title Yuri Bot
+title Yuri Bot ^| yuribox.xyz
 cls
 echo.
 echo Yuri ^| a multipurpose Discord Bot
