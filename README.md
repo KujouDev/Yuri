@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
     <p>
-      <a href="#"><img src="https://src.kujou.de/apps/addhify-logo.png" width="75%" alt="addhify"/></a>
+      <a href="#"><img src="https://yuribot.xyz/src/github-readme.png" width="75%" alt="Yuri"/></a>
     </p>
   <p>
     <b>
