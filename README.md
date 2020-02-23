@@ -1,19 +1,8 @@
-<div align="center">
-  <br/>
-    <p>
-      <a href="#"><img src="https://yuribot.xyz/src/github-readme.png" width="75%" alt="Yuri"/></a>
-    </p>
-  <p>
-    <b>
-      <a href="#"><img src="https://img.shields.io/badge/Version-18y20d08m-%23ca0000.svg" alt="[Version 18y20d08m]"/></a>
-    </b>
-  </p>
-</div>
-
 # Yuri
 a multipurpose discord bot
 
 Yuri is based on [Module.js](https://github.com/KujouDev/Module.js)
 
 ### Information
-The files for the bot are finally released. (25.02.2019)
+25.02.2019 - The files for the bot are finally released
+23.02.2020 - The Development has been stopped
